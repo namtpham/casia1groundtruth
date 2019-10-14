@@ -1,18 +1,21 @@
 # Groundtruth of spliced images in dataset CASIA 1.0
 
-* I also upload the original dataset since the owners' server is no longer avaiable.
-
 Please notice that the authors made mistakes in naming the files. 
 If you already downloaded the dataset, I recommend you to rename the tampered images using the commands in the excel file. 
 Otherwise, you can use the modified version of dataset. 
+
+* Since the owners' server is no longer avaiable, I upload the dataset to my drive, including original dataset and the modified version (renaming dozens of images in tampering folder). Please visit this link to download (~91 MB): https://drive.google.com/open?id=14f3jU2VsxTYopgSE1Vvv4hMlFvpAKHUY
 
 Due to the lack of manual file, I write up here the naming convention:
 
 ## Authentic images: 800 images (8 categories, 100 images in each category).
 
 Au_ani_0001.jpg
+
 Au: Authentic
+
 ani: animal category
+
 Other categories: arc (architecture), art, cha (characters), nat (nature), pla (plants), sec, txt (texture)
 
 ## Tampering images
