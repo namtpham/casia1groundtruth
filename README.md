@@ -2,7 +2,7 @@
 
 * CASIA 2.0 groundtruth dataset is avaiable at: https://github.com/namtpham/casia2groundtruth
 
-Please notice that the authors made mistakes in naming the files. 
+* Please notice that the authors made mistakes in naming the files. 
 If you already downloaded the dataset, I recommend you to rename the tampered images using the commands in the excel file. 
 Otherwise, you can use the modified version of dataset. 
 
