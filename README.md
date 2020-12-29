@@ -6,7 +6,7 @@
 If you already downloaded the dataset, I recommend you to rename the tampered images using the commands in the excel file. 
 Otherwise, you can use the modified version of dataset. 
 
-* Since the owners' server is no longer avaiable, I upload the dataset to my drive, including original dataset and the modified version (renaming dozens of images in tampering folder). Please visit one of the following links to download (~91 MB): 
+* Since the owners' server is no longer avaiable, I upload the dataset to my drive, including original dataset and the modified version (renaming dozens of images in tampering folder). Please visit one of the following links to download (~90 MB): 
 
 * Google Drive: https://bit.ly/37TuHRx
 * One Drive: https://bit.ly/3nXyYJw
